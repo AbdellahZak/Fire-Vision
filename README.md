@@ -1,7 +1,7 @@
 Fire vision, Machine learning project C946
 -Creating a YOLO(real-time object detection algorithm) based model specifically for fire detection.
 -Project can be run through any Google Colab space.
--Model training is doen with pre annotated dataset from : https://universe.roboflow.com
+-Model training is done with pre annotated dataset from : https://universe.roboflow.com
 -Trained model can also take videos and annotate the results.
 
 Results:
